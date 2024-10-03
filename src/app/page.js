@@ -10,7 +10,7 @@ export default function Home() {
       <Navbar></Navbar>
       <div className="grid grid-cols-9 gap-4 pt-16 px-14">
         <div className="text-black col-span-4 ml-1 sticky">
-          <h1 className="font-semibold text-7xl leading-tight">Hey, I'm <br></br>Allison Cui.</h1>
+          <h1 className="font-semibold text-7xl leading-tight">Hey, I&apos;m <br></br>Allison Cui.</h1>
           <h2 className="font-medium text-xl mt-5">BBA & CSE at University of Michigan</h2>
           <div className="flex items-center space-x-6 mt-5 text-2xl">
             <a href="https://github.com/cu1jy" target="_blank" className="bg-white border border-gray-200 h-14 w-14 rounded-full flex justify-center items-center">
@@ -66,7 +66,7 @@ export default function Home() {
             <p className="col-span-2 text-[12px] font-medium">Mar 2024 — Present</p>
             <div className="col-span-5">
               <p className="font-semibold text-black text-md">Software Research Intern</p>
-              <p className="font-medium text-sm">Noah's Arc Capital Management</p>
+              <p className="font-medium text-sm">Noah&apos;s Arc Capital Management</p>
               <div className='mt-1 px-3 py-1 rounded-full inline-block bg-blue-100 text-blue-300 text-sm mr-2'>
                 HTML
               </div>
@@ -105,7 +105,7 @@ export default function Home() {
           </div>
 
           <div className="flex items-center justify-center text-sm my-10">
-            Nothing yet. Come back later to see what I'm working on!
+            In progress. Come back later to see what I&apos;m working on!
           </div>
         </div>
       </div>
